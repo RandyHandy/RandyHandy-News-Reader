@@ -1,0 +1,7 @@
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\bin\Debug\RandyHandy News Reader.exe
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\bin\Debug\RandyHandy News Reader.pdb
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\obj\x86\Debug\RandyHandy_News_Reader.Form1.resources
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\obj\x86\Debug\RandyHandy_News_Reader.Properties.Resources.resources
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\obj\x86\Debug\RandyHandy News Reader.csproj.GenerateResource.Cache
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\obj\x86\Debug\RandyHandy News Reader.exe
+c:\users\va\documents\visual studio 2010\Projects\RandyHandy News Reader\RandyHandy News Reader\obj\x86\Debug\RandyHandy News Reader.pdb
